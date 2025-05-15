@@ -9,7 +9,7 @@ noBox.addEventListener("mouseover", () => {
 
 let yesBox = document.querySelector(".yes")
 yesBox.addEventListener("click", ()=>{
-    document.querySelector("h1").innerText = "I like You too.."
+    document.querySelector("h1").innerText = "I love You too.."
 
 })
 
